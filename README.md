@@ -1,0 +1,1 @@
+This is Slava's first git project!
